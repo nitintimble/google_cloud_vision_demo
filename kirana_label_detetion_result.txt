@@ -1,0 +1,11 @@
+   	description  score
+0               Food   0.95
+1              Shelf   0.93
+2            Product   0.91
+3           Customer   0.87
+4  Convenience store   0.87
+5           Shelving   0.87
+6             Retail   0.83
+7            Selling   0.83
+8             Market   0.81
+9        Publication   0.80

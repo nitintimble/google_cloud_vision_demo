@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "facelive-420408",
+  "private_key_id": "7c369420f41973b19e7cfa409ef3627187c998f5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC51Jyt5tLoCyPH\naIK2rmp/d7SXGQtbijTvwpkEsC2IuxBjhzlhkR7s3AuSz4DfIKdhWsTDtI7lPER4\nYy/gaSdsUtvcfw+ixDIEHPYWkkmus7o6c2dGbVYcBJvK96YrGjyv/ZqSWUY+QXKF\nafCSSZZQ00y+HvhXGWEscKSKZ+gU5h9ydxfrWkzvkvZs2VOtOFE4fudX2MoROm0B\n8Jzf3oevlecZspRkaMtR9YzcUIBxTp0pkZXmFspdR1ngqm6InUr/e7DmGhplt5EJ\nwUjQqh3iLrBIjLbDFpPEjn7suhJnIynrVidMw6ooWR7/BIFVN00Msqaw0HZIfqPa\njqTfvudzAgMBAAECggEAC4Wmx1OSDSgvqjwNKsWKveeOr3WykhTyLlGLClLgJ+Ot\nYvZt9OI6ICaOoyYxj+Qm7K7jl1zZJVaEylAgFlJ+ysUic7v/HLD8huvCyGh+oBHt\nwJUKOMArwCX7AO01BOQmEiVv0ZYueEq3jpUggPmGE/HeBsXF0SS2NTqwwRIrPixh\ndDc/kG/lES2f3EiIqldHndmsiJeAC8RiSYELxjxG5KffZFMTrWUQOYITqtVYiIyn\neBb7eqDnJXsgAu1ynYofUeTQ0RmovaCDK52ccRevdYWNQhCGcGvaizubnHSnJyqq\nlgIBlAAF0hD1TV2CnjF1nPpRrYcXgdehhtJiFDjL5QKBgQDrDR6BvbdFVnjpXx4k\n2ZiMCIQ+eKDanScqqW2Co/8BvfXLArNJldDuTO9UtQ4wtwF6RhMbG4hIx7JNrdtc\n/hjBGn3RLkN4uxUB7P1EKJa2Gn1evzIH5bEqBAk7BurFG/Jy7W1ubtvWXOlux+fN\nKBcGmNZ0GuRflQ0so2qXYqf2hwKBgQDKZHuY0AWHm/TIvG++aUik5ExIh0S/Re6n\nHwD1bJmuBBlhqSiu2kO4MRLfC7Ic9NkOzs05pHL9Srikn5SqONrbenNK2s4Kw4kW\nnfXxJS+ABZ7vuM6KI6dwbLCOU/rcCAMmZWl9DExzDYFuXCr5bovsNY66vO8EFrDa\nEK9iF0IWtQKBgQCbRa5abJYN8uKq34/NLgUstE+P6SXxZJFECGp0O5uwbelZ8222\ndYZwdVhAr94w5iPOv03NwXFVCr5JvEjF9IErxzFIJvShY4ysGf7wsJNmtrcNCOam\n+t/+7m2elaIvFZgivZ9lrUwCHpyB9wK0rwAO9pXsWvtz/MWYMFewq5ZjLwKBgQCO\n5E6W3xdoXOV/6/qA1thhAoYRFt+ko30RJMSKgfgmceJxnvqIKLVzD8KhEyLXas7s\ns3kVX1OIHP8ryzcszyNFnbhUexLJarAY9cE0VeqpWk6SNUotIWsP5szoT8ZnHokK\nzMKjdNFs0XY2MoBsxm2ngVCZ6tZdbp/B9dG9UWppmQKBgCmw7p/BICR6V8ueg3c4\n7ByTk8RajZRbp0iOM4IhHiet3lJpS0GdxTHRKUFAgSw9X0x5ZbM0FiqrLpN8jSNo\nLZKff7Qoj8uLMt4YyHgK71gjkiEO1+tF8yfijB8fgRVuY/77iz5t0qA0gYRHGauy\nsxcbFtcnv1KaACZZ8Ajl/j0+\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-vision-api@facelive-420408.iam.gserviceaccount.com",
+  "client_id": "104065569051371740705",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-vision-api%40facelive-420408.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
